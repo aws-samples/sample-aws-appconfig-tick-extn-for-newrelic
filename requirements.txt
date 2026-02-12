@@ -1,0 +1,5 @@
+aws-cdk-lib==2.234.1
+constructs>=10.0.0,<11.0.0
+aws_cdk.aws_lambda_python_alpha==2.234.1a0
+cdk-nag==2.32.2
+setuptools>=70.0.0
