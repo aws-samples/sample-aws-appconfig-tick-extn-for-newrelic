@@ -116,6 +116,8 @@ aws appconfig get-deployment \
 
 * [Monitoring deployments for automatic rollback](https://docs.aws.amazon.com/appconfig/latest/userguide/monitoring-deployments.html)
 * [Creating a custom AppConfig Extension](https://docs.aws.amazon.com/appconfig/latest/userguide/working-with-appconfig-extensions-creating-custom-extensions.html)
+* New Relic blog post: [Automatic Feature Flag Rollbacks](https://newrelic.com/blog/news/aws-appconfig-and-new-relic-workflow-automation)
+* [New Relic Workflow Automation](https://newrelic.com/blog/news/workflow-automation-ga)
 
 ## Security
 
