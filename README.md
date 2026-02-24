@@ -114,7 +114,8 @@ aws appconfig get-deployment \
 
 ## Additional resources
 
-Coming soon.
+* [Monitoring deployments for automatic rollback](https://docs.aws.amazon.com/appconfig/latest/userguide/monitoring-deployments.html)
+* [Creating a custom AppConfig Extension](https://docs.aws.amazon.com/appconfig/latest/userguide/working-with-appconfig-extensions-creating-custom-extensions.html)
 
 ## Security
 
